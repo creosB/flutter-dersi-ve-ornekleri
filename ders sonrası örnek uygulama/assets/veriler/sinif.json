@@ -1,0 +1,41 @@
+[
+    {
+        "okulno": 123,
+        "adi": "Mehmet",
+        "soyadi": "Yılmaz",
+        "cinsiyet": "Erkek",
+        "Basarili": true,
+        "veli": {
+            "adi": "Ali",
+            "soyadi": "Kaya",
+            "yakinlik": "Dayısı",
+            "telno": 2131534
+        }
+    },
+    {
+        "okulno": 124,
+        "adi": "Veli",
+        "soyadi": "Yilmaz",
+        "cinsiyet": "Erkek",
+        "Basarili": false,
+        "veli": {
+            "adi": "Mert",
+            "soyadi": "Balcı",
+            "yakinlik": "Dayısı",
+            "telno": 21124
+        }
+    },
+    {
+        "okulno": 125,
+        "adi": "Ayşe",
+        "soyadi": "Yalçın",
+        "cinsiyet": "Kadın",
+        "Basarili": true,
+        "veli":{
+            "adi": "Emre",
+            "soyadi": "Yalçın",
+            "yakinlik": "Babası",
+            "telno": 2131657
+        }
+    }
+]
