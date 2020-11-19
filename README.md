@@ -7,7 +7,7 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 <p class="has-line-data" data-line-start="9" data-line-end="10">Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.</p>
 </blockquote>
 <blockquote>
-<p class="has-line-data" data-line-start="11" data-line-end="21">İçerisinde:<br>
+<p class="has-line-data" data-line-start="11" data-line-end="21">İçerisinde:</p>
 - Tüm widget türlerine ait örnekler.<br>
 - Json veri çekme.<br>
 - İnternetten alınan veri alma, düzenleme, işlem yapma.<br>
