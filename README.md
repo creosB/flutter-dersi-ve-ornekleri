@@ -17,6 +17,9 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 <li class="has-line-data" data-line-start="13" data-line-end="14">Flutter kütüphane kullanımı.</li>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Dart dili temel komutlar.</li>
 <li class="has-line-data" data-line-start="15" data-line-end="16">Widget mimarisine giriş.</li>
+<li class="has-line-data" data-line-start="16" data-line-end="17">sqflite kavramı ve kullanımı.</li>
+<li class="has-line-data" data-line-start="16" data-line-end="17">hive kavramı.</li>
+<li class="has-line-data" data-line-start="16" data-line-end="17">shared preferences  kavramı ve kullanımı.</li>
 <li class="has-line-data" data-line-start="16" data-line-end="17">Örnek uygulamalar.</li>
 </ul>
 <h2 class="code-line" data-line-start=22 data-line-end=24 ><a id="License_22"></a>License</h2>
