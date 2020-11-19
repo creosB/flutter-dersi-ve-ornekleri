@@ -8,15 +8,15 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 </blockquote>
 <blockquote>
 <p class="has-line-data" data-line-start="11" data-line-end="21">İçerisinde:<br>
-1)Tüm widget türlerine ait örnekler.<br>
-2)Json veri çekme.<br>
-3)İnternetten alınan veri alma, düzenleme, işlem yapma.<br>
-4)Firebase üzerinden veri alma, düzenleme, işlem yapma.<br>
-5)Sayfalar arası geçiş yapma.<br>
-6)Flutter kütüphane kullanımı.<br>
-7)Dart dili temel komutlar.<br>
-8)Widget mimarisine giriş.<br>
-9)Örnek uygulamalar.</p>
+- Tüm widget türlerine ait örnekler.<br>
+- Json veri çekme.<br>
+- İnternetten alınan veri alma, düzenleme, işlem yapma.<br>
+- Firebase üzerinden veri alma, düzenleme, işlem yapma.<br>
+- Sayfalar arası geçiş yapma.<br>
+- Flutter kütüphane kullanımı.<br>
+- Dart dili temel komutlar.<br>
+- Widget mimarisine giriş.<br>
+- Örnek uygulamalar.</p>
 </blockquote>
 <h2 class="code-line" data-line-start=26 data-line-end=28 ><a id="License_26"></a>License</h2>
 <p class="has-line-data" data-line-start="29" data-line-end="30">MIT</p>
