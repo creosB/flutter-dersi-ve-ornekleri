@@ -10,7 +10,7 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 </blockquote>
 <ul>
 <li class="has-line-data" data-line-start="8" data-line-end="9">Tüm widget türlerine ait örnekler.</li>
-<li class="has-line-data" data-line-start="9" data-line-end="10">Json veri çekme.</li>
+<li class="has-line-data" data-line-start="9" data-line-end="10">Json veri alma, düzenleme, işlem yapma.</li>
 <li class="has-line-data" data-line-start="10" data-line-end="11">İnternetten alınan veri alma, düzenleme, işlem yapma.</li>
 <li class="has-line-data" data-line-start="11" data-line-end="12">Firebase üzerinden veri alma, düzenleme, işlem yapma.</li>
 <li class="has-line-data" data-line-start="12" data-line-end="13">Sayfalar arası geçiş yapma.</li>
