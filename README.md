@@ -23,4 +23,4 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 <li class="has-line-data" data-line-start="16" data-line-end="17">Örnek uygulamalar.</li>
 </ul>
 <h2 class="code-line" data-line-start=22 data-line-end=24 ><a id="License_22"></a>License</h2>
-<p class="has-line-data" data-line-start="25" data-line-end="26">MIT</p>
+<p class="has-line-data" data-line-start="25" data-line-end="26">Creative Commons Zero v1.0 Universal</p>
