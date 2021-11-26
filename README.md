@@ -22,5 +22,6 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 <li class="has-line-data" data-line-start="16" data-line-end="17">shared preferences  kavramı ve kullanımı.</li>
 <li class="has-line-data" data-line-start="16" data-line-end="17">Örnek uygulamalar.</li>
 </ul>
+<a href="https://www.buymeacoffee.com/creos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <h2 class="code-line" data-line-start=22 data-line-end=24 ><a id="License_22"></a>License</h2>
 <p class="has-line-data" data-line-start="25" data-line-end="26">Creative Commons Zero v1.0 Universal</p>
